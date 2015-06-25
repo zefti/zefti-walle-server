@@ -1,0 +1,10 @@
+{
+  "name": "zefti-walle-server",
+  "description": "Zefti Walle Server",
+  "author": "Ryan Ogle",
+  "dependencies": {
+    "underscore" : "latest"
+  },
+  "private": true,
+  "version": "0.0.1"
+}
